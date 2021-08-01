@@ -1,0 +1,148 @@
+DEPTH_NAME_LOWMORE=Das Tiefmoor
+DEPTH_NAME_ABYSS=Der Abgrund
+DEPTH_NAME_INFINITE_CORRIDOR=Endloser Korridor
+DEPTH_NAME_SACRIFICAL_CHAMBER=Opferstätte
+DEPTH_NAME_CHAMBER_OF_PLENTY=Kammer des Reichtums
+DEPTH_NAME_CONCEALED_UTOPIA=Verborgenes Utopia
+
+DEPTH_NAME_MALEVOLENT_CHAMBER=Kammer der Grausamkeit
+DEPTH_DESCRIPTION_MALEVOLENT_CHAMBER=Eine bösartige Aura umgibt dich...
+
+DEPTH_DESCRIPTION_STRONG_BOSSES=Nur die Stärksten werden siegreich sein
+DEPTH_DESCRIPTION_NO_MONSTER=Eine friedliche Zone ohne Monster
+DEPTH_COMPLETE_DESCRIPTION=Finde die Bosskammer und besiege ihn, um diese Ebene abzuschließen
+DEPTH_SELECT_UI_SELECT_KEY=Wähle einen Schlüssel und lege ihn in den Schädel ein
+DEPTH_SELECT_UI_EMPTY_KEY_DETAIL=Lege einen Schlüssel in den Schädel für mehr Infos
+DEPTH_SELECT_UI_ENTER_DEPTH=Betreten
+DEPTH_SELECT_UI_EMPTY_INFUSIONS=Keine Affixe
+DEPTH_SELECT_UI_INFUSIONS=Affixe
+DEPTH_SELECT_UI_INFUSIONS_TUT=Du kannst bis zu 4 Affixe auswählen, um die Tiefen deiner Wünsche nach anzupassen
+DEPTH_SELECT_UI_EMPTY_INFUSION_SELECT=Lege Schlüssel ein um mögliche Affixe einzusehen
+DEPTH_SELECT_UI_INFUSIONS_LOCK=Schließe [DEPTH_NAME_INFINITE_CORRIDOR] Ebene 1 ab
+DEPTH_SELECT_UI_INFUSIONS_CANT_BE_APPLIED=Affix auf dieser Ebene nicht anwendbar
+DEPTH_SELECT_UI_COMPLETE_T_X_IC_TO_UNLOCK=Schließe [DEPTH_NAME_INFINITE_CORRIDOR] Ebene {0} ab
+DEPTH_SELECT_UI_IC_SELECT_TIER=Wähle die Ebene aus
+DEPTH_SELECT_UI_IC_TIER_X=Ebene {0}
+DEPTH_SELECT_UI_IC_ENEMY_HEALTH=+{0}% LP für Monster <br>({1}% für Bosse)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_AUTO_ATTACK_DMG=+{0}% Angriffsschaden <br>({1}% für Bosse)<br><br>
+DEPTH_SELECT_UI_IC_ENEMY_SPELLPOWER=+{0}% Zauberkraft <br>({1}% für Bosse)<br><br>
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS=Potentielle Artefakte
+DEPTH_SELECT_UI_POTENTIAL_ARTIFACTS_DESC=Artefakte, die auf dieser Ebene hinterlassen werden können <br><br>Erhaltene Artefakte werden automatisch dem Atlas hinzugefügt
+DEPTH_UI_DEPTH_INFO=Informationen einsehen
+DEPTH_UI_BACK_TO_HAVEN=Zurück zur Antikammer<br><color=#858585FF>Du kannst später zu dieser Ebene zurückkehren</color>
+DEPTH_UI_CLOSE_DEPTH=Ebene beenden<br><color=#858585FF>Schließt diese Ebene unwiderruflich</color>
+DEPTH_UI_CLEAR_MESSAGE_DEFEAT_MONSTER=Säubere die Monsterkammer um benachbarte Räume zu betreten
+
+DEPTH_UI_NO_POTENTIAL_ARTIFACTS=Keine einzigartigen Artefakte
+
+DEPTH_CONSUME_KEY=Dieser Schlüssel wird nach Verwendung zerstört
+DEPTH_ERROR_MAX_INFUSION=Limit der Affixe erreicht
+
+DEPTH_ABANDONED_WEALTH_OPEN=Die Truhe ist gefüllt mit Schätzen...
+
+DEPTH_DEPTH_ROOM=Tiefenraum
+
+
+DEPTH_NAME_SPECIAL_DESC_NO_MONSTERS=Enthält keine Monster
+DEPTH_NAME_SPECIAL_DESC_ONLY_BATTLE=Enthält nur Monsterräume
+DEPTH_NAME_SPECIAL_DESC_NO_ART_MAT=Monster hinterlassen keine Artefakte oder Materialien
+DEPTH_NAME_SPECIAL_DESC_INCREASED_EXP=Monster gewähren 100% mehr Basiserfahrung
+
+DEPTH_NAME_RANDOM_POSTFIX_ENCAMPMENT=Feldlager
+DEPTH_NAME_RANDOM_POSTFIX_ACROPOLIS=Akropolis
+DEPTH_NAME_RANDOM_POSTFIX_STRONGHOLD=Bollwerk
+DEPTH_NAME_RANDOM_POSTFIX_WATCH=Wachplatz
+DEPTH_NAME_RANDOM_POSTFIX_HOLD=Feste
+DEPTH_NAME_RANDOM_POSTFIX_KEEP=Wachturm
+DEPTH_NAME_RANDOM_POSTFIX_PALACE=Palast
+DEPTH_NAME_RANDOM_POSTFIX_CITADEL=Zitadelle
+DEPTH_NAME_RANDOM_POSTFIX_CASTLE=Schloss
+DEPTH_NAME_RANDOM_POSTFIX_STOCKADE=Verlies
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUARY=Sanktuarium
+DEPTH_NAME_RANDOM_POSTFIX_LAIR=Hort
+DEPTH_NAME_RANDOM_POSTFIX_SANCTUM=Heiligtum
+DEPTH_NAME_RANDOM_POSTFIX_GARRISON=Garnison
+DEPTH_NAME_RANDOM_POSTFIX_DEN=Lager
+DEPTH_NAME_RANDOM_POSTFIX_NEST=Nest
+DEPTH_NAME_RANDOM_POSTFIX_HALLWAY=Flur
+DEPTH_NAME_RANDOM_POSTFIX_HOLLOW=Schlucht
+
+DEPTH_NAME_RANDOM_PREFIX_SUNWEB=Sonnensteg
+DEPTH_NAME_RANDOM_PREFIX_NIGHTMARE=Albtraum
+DEPTH_NAME_RANDOM_PREFIX_EXALTED=Ehrfurcht
+DEPTH_NAME_RANDOM_PREFIX_SILVERHOWL=Silberschrei
+DEPTH_NAME_RANDOM_PREFIX_ARID=Dürre
+DEPTH_NAME_RANDOM_PREFIX_RUNAWAY=Ausreißer
+DEPTH_NAME_RANDOM_PREFIX_WATCHER=Wächter
+DEPTH_NAME_RANDOM_PREFIX_DREAMSPINE=Traumgrat
+DEPTH_NAME_RANDOM_PREFIX_DUSTY=Asche
+DEPTH_NAME_RANDOM_PREFIX_EHCHANTED=Arkan
+DEPTH_NAME_RANDOM_PREFIX_WINDLESS=Fels
+DEPTH_NAME_RANDOM_PREFIX_HAUNTED=Spuk
+DEPTH_NAME_RANDOM_PREFIX_ABANDONED=Geister
+DEPTH_NAME_RANDOM_PREFIX_DREADFUL=Schreckens
+
+DEPTH_INFUSION_CHAOTIC_TITLE=Chaotisch
+DEPTH_INFUSION_CHAOTIC_DESC=Gewährt allen Monstern chaotische Attribute
+
+DEPTH_INFUSION_MAZELIKE_TITLE=Labyrinth
+DEPTH_INFUSION_MAZELIKE_DESC=Die Tiefen haben mehr Räume als gewöhnlich
+DEPTH_INFUSION_MAZELIKE_ATTR_DESC=Enthält mehr Räume
+
+DEPTH_INFUSION_TRANSPARENT_TITLE=Offenbarung
+DEPTH_INFUSION_TRANSPARENT_DESC=Enthüllt die Karte und den Standort der Bosskammer
+DEPTH_INFUSION_TRANSPARENT_ATTR_DESC=Karte enthüllt
+
+DEPTH_INFUSION_TRIAL_TITLE=Prüfung
+DEPTH_INFUSION_TRIAL_DESC=Garantiert das Erscheinen von Orra/Mevor/Edwin, hinterlassen 1 zusätzliches anomales Item
+DEPTH_INFUSION_TRIAL_ATTR_DESC=Trio erscheint
+
+DEPTH_INFUSION_PLENTIFUL_TITLE=Überfluss
+DEPTH_INFUSION_PLENTIFUL_DESC=Bosskammer hinterlässt einen Schlüssel garantiert
+DEPTH_INFUSION_PLENTIFUL_ATTR_DESC=Boss hinterlässt einzigartige(n) Schlüssel
+
+DEPTH_WEALTH_ATTR_EXTRA_CHAOS_CRYSTALS=Enthält zusätzliche Chaoskristalle
+DEPTH_WEALTH_ATTR_EXTRA_MUTATION_CRYSTALS=Enthält zusätzliche Mutationskristalle
+DEPTH_WEALTH_ATTR_EXTRA_ANGELIC_CRYSTALS=Enthält zusätzliche Engelskristalle
+DEPTH_WEALTH_ATTR_EXTRA_ORES=Enthält zusätzliches Erz
+DEPTH_WEALTH_ATTR_UNIQUE=Enthält 1 oder mehr Relikte
+DEPTH_WEALTH_ATTR_EXTRA_WEAPONS=Enthält zusätzliche Waffen
+DEPTH_WEALTH_ATTR_EXTRA_ARMORS=Enthält zusätzliche Rüstung
+DEPTH_WEALTH_ATTR_EXTRA_ACCESSORIES=Enthält zusätzliche Accessoires
+
+DEPTH_ROOM_COMPLETED=Abgeschlossen
+
+DEPTH_ROOM_NAME_MONSTER=Monsterkammer
+DEPTH_ROOM_DESC_MONSTER=Säubere die Kammer um die Tiefen zu erkunden
+DEPTH_ROOM_DESC_MONSTER_BOSS=Besiege den Boss um die Ebene abzuschließen
+
+DEPTH_ROOM_DESC_MORE_MONSTERS=Enthält mehr Monster
+DEPTH_ROOM_DESC_STRONGER_MONSTERS=Enthält stärkere Monster
+DEPTH_ROOM_DESC_ENHANCED_MONSTERS=Monster sind deutlich verstärkt
+DEPTH_ROOM_DESC_ENCHANTED_MONSTERS=Enthält Monster elementarer Natur
+DEPTH_ROOM_HAS_X_ENVIRONMENTAL_EFFECT=Unter Einfluss von {0} Umgebungseffekt(en)
+DEPTH_ROOM_CONTAINS_X=Enthält {0}
+
+DEPTH_ROOM_NAME_ABANDONED_WEALTH=Verlorener Schatz
+DEPTH_ROOM_DESC_ABANDONED_WEALTH=Finde antike Reichtümer
+
+DEPTH_ROOM_NAME_ALTAR=Altar
+DEPTH_ROOM_DESC_ALTAR=Gewährt sowohl Fluch als auch Segen für den Rest der Tiefenebene
+DEPTH_ROOM_ALTAR_COMPLETED=Bereits erhalten
+
+DEPTH_ROOM_NAME_CURSED_POTION=Ominöser Kelch
+DEPTH_ROOM_DESC_CURSED_POTION=Ersetzt alle Monsterkammern mit einer einzigen verfluchten Kammer
+
+DEPTH_ROOM_NAME_MALEVOLENT_SHRINE=Arglistiger Schrein
+DEPTH_ROOM_DESC_MALEVOLENT_SHRINE=Schrein mit der Fähigkeit, ein Attribut permanent an das Item zu koppeln
+
+DEPTH_ROOM_NAME_ORRA=[BOSS_ORRA_SHORT_NAME]'s Herausforderung
+DEPTH_ROOM_DESC_ORRA=Besiege [BOSS_ORRA_SHORT_NAME] für eine anomale Rüstung
+DEPTH_ROOM_NAME_MEVOR=[BOSS_MEVOR_SHORT_NAME]'s Herausforderung
+DEPTH_ROOM_DESC_MEVOR=Besiege [BOSS_MEVOR_SHORT_NAME] für eine anomale Waffe
+DEPTH_ROOM_NAME_EDWIN=[BOSS_EDWIN_SHORT_NAME]'s Herausforderung
+DEPTH_ROOM_DESC_EDWIN=Besiege [BOSS_EDWIN_SHORT_NAME] für ein anomales Accessoire
+
+
+
+END

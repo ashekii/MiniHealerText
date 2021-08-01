@@ -1,0 +1,97 @@
+TUTORIAL_HAVEN_TTILE=Die <color=#B58300FF>Antikammer</color> des Gewölbes!. Frei von Gegnern kannst du dich hier auf die nächsten Kämpfe vorbereiten und ausruhen
+TUTORIAL_HAVEN_TALENT_TTILE=Im <color=#B58300FF>Talentraum</color> kannst du Talente und deren Expertise freischalten. <br><br><color=#858585>Jeder Stufenanstieg gewährt dir einen Talentpunkt</color>
+TUTORIAL_HAVEN_MUTZ=Sprich mit <color=#B58300FF>Mutz<, sobald du dich mit der Antikammer vertraut gemacht hast/color>
+
+TUTORIAL_DESC_TALENT_TITLE=Talente gewähren deiner Gruppe eine Vielzahl passiver und aktiver Boni
+TUTORIAL_DESC_TALENT_UPGRADE=Schalte Talente mit der linken Maustaste frei. Anschließend kannst du Talentpunkte mit der linken/rechten Maustaste hinzufügen/entfernen
+TUTORIAL_DESC_TALENT_UPGRADE_MANUAL=Du kannst ebenso diese Tasten verwenden
+
+TUTORIAL_DESC_EQUIPPING_TITLE=Dies ist dein <color=#B58300FF>[UI_ARMORY_TITLE]</color>. Hier findest du erhaltene Artefakte und Materialien, zudem legst du hier deinem <color=#B58300FF>[CONTEXT_PARTY_MEMBER_NAME_HEALER] Ausrüstung an</color>
+TUTORIAL_DESC_EQUIPPING_HEALER_ONLY=<color=#B58300FF>Beachte, dass die Ausrüstung des [CONTEXT_PARTY_MEMBER_NAME_HEALER] die gesamte Gruppe betrifft!</color> 
+TUTORIAL_DESC_EQUIPPING_METHODS=Artefakte können durch Verschieben oder Doppelklick angelegt werden
+
+TUTORIAL_FAV_INSTRUCTION=Klicke das Herzicon, um ein Artefakt als Favorit zu markieren
+TUTORIAL_FAV_DESC=Favorisierte Artefakte sind von jedem Verkauf ausgeschlossen
+
+
+TUTORIAL_FIRST_ARTIFACT=Es scheint als hättest du dein erstes Artefakt erhalten! Wirf in der <color=#B58300FF>Antikammer</color> einen Blick auf dein <color=#B58300FF>Inventar</color>
+TUTORIAL_SKILL_ROOM=Der <color=#B58300FF>Fähigkeitsraum</color> ist nun in der <color=#B58300FF>Antikammer</color> freigeschalten! Dort kannst du verschiedene Zauber und Fähigkeiten erlernen und ausrüsten 
+TUTORIAL_ATLAS_UNLOCK=Der <color=#B58300FF>Atlas</color> ist nun in der <color=#B58300FF>Antikammer</color> freigeschalten! <br><br>Ein grenzenloses Lexikon, welches Informationen über Artefakte und Runenwörter enthält
+
+TUTORIAL_ORRA_INTRO=Torram kann deine <color=#B58300FF>Rüstungen</color> nun mit zusätzlichen Attributen verzaubern
+TUTORIAL_ORRA_ATTRIBUTES=Torram verzaubert nun mächtiger mit zusätzlichen Attributen!
+TUTORIAL_MEVOR_INTRO=Torram kann deine <color=#B58300FF>Waffen</color> nun mit zusätzlichen Attributen verzaubern
+TUTORIAL_MEVOR_ATTRIBUTES=Torram verzaubert nun mächtiger mit zusätzlichen Attributen!
+TUTORIAL_EDWIN_INTRO=Torram kann deine <color=#B58300FF>Accessoires</color> nun mit zusätzlichen Attributen verzaubern
+TUTORIAL_EDWIN_ATTRIBUTES=Torram verzaubert nun mächtiger mit zusätzlichen Attributen!
+TUTORIAL_TRIO_CHAOS=Du hast ein <color=#B58300FF>Astralfragment</color> erhalten
+TUTORIAL_TRIO_CHAOS_COLLECT=Sammle 
+TUTORIAL_TRIO_CHAOS_MORE=weitere Fragmente, um zusätzliche Artefaktslots freizuschalten
+TUTORIAL_TRIO_CHAOS_DONE=Der <color=#B58300FF>Chaosslot</color> wurde im Inventar freigeschalten!
+
+TUTORIAL_MASTERY_UNLOCK_TITLE=Du hast erfolgreich <color=#FF911F>Stufe 10</color> erreicht!
+TUTORIAL_MASTERY_DESC=Du erhältst nun nach jedem Kampf <color=#FF911F>Meisterschaft</color> abhängig davon, wieviele Talentpunkte in einen Talentbaum investiert wurden <br><br>Sammle genügend Meisterschaft, um <color=#FF911F>Expertisepunkte</color> pro Talentbaum zu erhalten, mit welchen du freigeschaltene Talente zusätzlich verbessern kannst <br><br>Talente und deren Expertise müssen auf die selbe Stufe freigeschalten werden, um den jeweiligen Boni zu aktivieren
+TUTORIAL_MASTERY_BONUS=Meisterschaftsbonus
+TUTORIAL_MASTERY_VISIT=Besuche den <color=#FF911F>Talentraum</color> um deine Expertise einzusehen
+
+
+TUTORIAL_CHAOS_UNLOCK=Du hast einen <color=#FF911F>Chaoskristall</color> erhalten! Füge diese Kristalle einem <color=#FF911F>Chaospfeiler</color> hinzu, um die Schwierigkeit eines Kampfes, aber auch dessen Belohnungen und erhaltene Erfahrung zu erhöhen
+TUTORIAL_CHAOS_PILLAR_UNLOCK=<color=#FF911F>Chaospfeiler</color> werden manchmal zufällig nach einem Kampf aktiviert. Besiege Bosse mit automatisch aktiviertem Pfeiler, um schnell und einfach an weitere <color=#FF911F>Chaoskristalle</color> zu gelangen
+TUTORIAL_CHAOS_GENERATION_UNLOCK=Du erhältst nun passiv <color=#FF911F>Chaoskristalle</color> in regelmäßigen Abständen, selbst wenn das Spiel beendet ist!
+
+TUTORIAL_MIDNIGHT_UNLOCK=Die <color=#FF911F>Walpurgiszone</color> wurde freigeschalten! Stelle dich in dieser Zone besonderen Marathon-Kämpfen mit herausragenden Belohnungen, nachdem du alle Bosse eines Areals besiegt hast
+
+TUTORIAL_DININATION_SPHERE_UNLOCK=<color=#FF911F>[MATERIAL_DIVINATION_SPHERE_NAME]</color> ist ein seltenes Objekt und kann nur in den [LOCATION_PANDEMONIC_DEPTH] erhalten werden
+TUTORIAL_DININATION_SPHERE_UNLOCK_DESC=<color=#FF911F>Torram</color> verwendet diese Sphären für eine besondere Schmiedekunst, um Artefakte auf deren <color=#FF911F>legendäres</color> Niveau zu verbessern
+TUTORIAL_DININATION_SPHERE_UNLOCK_ATLAS_DESC=<color=#FF911F>Der Atlas</color> listet nun Informationen zu Artefakten und deren legendäre Version
+
+TUTORIAL_DICE_UNLOCK=Der <color=#FF911F>Glückswürfel</color> wurde freigeschalten!
+TUTORIAL_DICE_UNLOCK_DESC=Der Würfel bietet eine Vielzahl an Artefakten gegen Gold. Manch eines ist mächtig, manch eines jedoch nicht...
+
+TUTORIAL_CURSE_UNLOCK=Du scheinst eine <color=#FF911F>Verfluchte Seele</color> erhalten zu haben!
+TUTORIAL_CURSE_CRAFT=<color=#FF911F>Torram</color> kann diese Seelen verwenden, um besondere Schmiedekünste zu vollbringen
+TUTORIAL_CURSE_PURCHASE=<color=#FF911F>Verfluchte Seelen</color> können verwendet werden, um Artefakte nun direkt im <color=#FF911F>Atlas</color> herzustellen!
+
+TUTORIAL_BEATING_GAME=Die antiken Hüter wurden besiegt und damit der Frieden in das Gewölbe gebracht! Verwende den <color=#B58300FF>Ewigen Schlüssel</color> und stelle dich nun in den Tiefen gewaltigen und endlosen Herausforderungen!
+
+TUTORIAL_BATTLE_SELECT_CHARACTER_0=Unser Tank ist verwundet, Zeit um zu Heilen!
+TUTORIAL_BATTLE_SELECT_CHARACTER_1=<color=#B58300FF>Wähle</color> ihn zunächst aus, in dem du auf seinen LP-Balken oder Portrait klickst
+TUTORIAL_BATTLE_SELECT_CHARACTER_2=Du kannst Gruppenmitglieder ebenso mit Q, W, E, R auswählen
+
+TUTORIAL_BATTLE_SELECT_SPELL_0=Sehr gut! Wende nun deinen ersten Heilzauber, <color=#ea8631>Geringes Heilen</color>, auf ihn an!
+TUTORIAL_BATTLE_SELECT_SPELL_1=Bewege deinen <color=#ea8631>Cursor</color> über eine Fähigkeit, um deren Effekt einzusehen <br>Drück nun <color=#ea8631>1</color>, um den Zauber anzuwenden!
+
+TUTORIAL_BATTLE_MANA_0=Sieht so gut wie neu aus! Dieses Wissen sollte fürs Erste reichen. <br>Besiege den Skelettkrieger und dringe in das Gewölbe ein!
+TUTORIAL_BATTLE_MANA_1=Behalte dein Mana immer im Blick, du benötigst es um all deine Fähigkeiten anzuwenden
+
+TUTORIAL_BATTLE_RENEW_0=Ein heftiger Angriff hat eine Blutung im Tank ausgelöst!
+TUTORIAL_BATTLE_RENEW_1=<color=#ea8631>Erneuerung</color> freigeschalten! <br>Einige Zauber heilen das Ziel kontinuierlich über Zeit <br>Wähle den <color=#ea8631>Tank</color> aus und drücke <color=#ea8631>2</color>
+
+TUTORIAL_BATTLE_NEGATE_0=Einige Bosse können mächtige Positiveffekte auf sich selbst anwenden
+TUTORIAL_BATTLE_NEGATE_1=<color=#ea8631>Negieren</color> freigeschalten! <br>Negieren entfernt bestimmte Positiveffekte von Gegnern <br>Drücke <color=#ea8631>4</color>, um den Buff des Gegners zu entfernen!
+
+TUTORIAL_BATTLE_SWITCH_0=Gump hat einen Diener beschworen!
+TUTORIAL_BATTLE_SWITCH_1=<color=#B58300FF>Klicke auf einen Gegner, um den Schaden der gesamten Gruppe auf dieses Ziel zu fokussieren </color>
+TUTORIAL_BATTLE_SWITCH_2=Drücke die <color=#B58300FF>TAB</color>-Taste, um ebenso Ziele zu ändern
+
+TUTORIAL_MOVEMENT=Du kannst deine Heilerin mit <color=#B58300FF>A</color> und <color=#B58300FF>D</color> über das Kampffeld bewegen. Verwende deine Mobilität, um Angriffen auszuweichen oder mit bestimmten Objekten zu interagieren!
+
+TUTORIAL_ENV_EFFECT=Beachte, dass einige Bosskämpfe über <color=#B58300FF>Feldeffekte</color> verfügen <br><br>Du kannst diese Effekte im oberen, linken Bereich des Kampffelds einsehen
+
+
+TUTORIAL_DISPEL_WATCH_OUT=Halte immer Ausschau nach Negativeffekten, welche deine Gruppe betreffen können!
+TUTORIAL_DISPEL_HOVER=<color=#ea8631>Bewege deinen Cursor über diese Debuffs, um deren Effekt einzusehen</color>
+TUTORIAL_DISPEL_CAN_BE_DISPEL=<color=#ea8631>-> kann gebannt werden</color>
+TUTORIAL_DISPEL_CAN_NOT_BE_DISPEL=<color=#ea8631>-> kann NICHT gebannt werden</color>
+TUTORIAL_DISPEL_UNLOCK=<color=#ea8631>Esuna</color> freigeschalten! <br><br>Esuna entfernt bestimmte Negativeffekte von deiner Gruppe
+
+
+
+TUTORIAL_SKILL_ROOM_TITLE=Zauber und Fähigkeiten
+TUTORIAL_SKILL_ROOM_DESC=Als Heiler ist eine korrekte Zusammensetzung deines Zauberkits eines der wichtigsten Dinge <br>Halte immer ein Auge offen nach neuen, freigeschaltenen Zaubern
+TUTORIAL_SKILL_ROOM_UPGRADE_DESC=Auf deinen Reisen wirst du <color=#B58300FF>Engelskristalle</color> ansammeln. Verwende diese Kristalle, um deine Zauber zu verstärken!
+
+TUTORIAL_BOSS_JOURNAL=Das <color=#ea8631>Monsterkompendium</color> enthält wichtige Informationen zu Bossen <br><br>Wirf einen Blick hinein, bevor du dich ins Unbekannte stürzt!
+TUTORIAL_BOSS_LOOT_CHEST=Die <color=#ea8631>Beute</color> gibt einen Einblick in die Artefakte, die der Boss hinterlassen kann
+
+END

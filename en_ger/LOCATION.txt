@@ -1,0 +1,32 @@
+LOCATION_MAP_OF_VAULT=Das Antike Gewölbe
+LOCATION_DESC_MAP_OF_VAULT=Klicke, um zu allen Bereichen des Gewölbes zu reisen
+
+LOCATION_HIDDEN_HAVEN=Antikammer
+LOCATION_VAULT_ENTRANCE=Gewölbeportal
+LOCATION_SOUL_QUARTER=Gestaltviertel
+LOCATION_BIO_QUARTER=Genetikviertel
+LOCATION_MIDNIGHT=Walpurgiszone
+LOCATION_OUTER_COURTYARD=Peristyl
+LOCATION_INNER_COURTYARD=Atrium
+LOCATION_PANDEMONIC_DEPTH=Pandämonische Tiefen
+LOCATION_GUARIDANS=Hüterkatakomben
+LOCATION_DINING_HALL=Speisesaal
+LOCATION_INFINITE_CORRIDOR=[DEPTH_NAME_INFINITE_CORRIDOR]
+
+LOCATION_MIDNIGHT_NO_ZONE=Walpurgis
+LOCATION_MIDNIGHT_WITH_AUG=Walpurgis-{0}
+
+LOCATION_DESC_HIDDEN_HAVEN=Bleibt ein Weilchen und ruht aus.
+LOCATION_DESC_VAULT_ENTRANCE=Das Abenteuer beginnt!
+LOCATION_DESC_SOUL_QUARTER=Die Seelen gefallener Helden scheinen sich hier einzufinden.
+LOCATION_DESC_BIO_QUARTER=Welch furchtbaren Experimente wurden hier in der Vergangenheit durchgeführt?
+LOCATION_DESC_MIDNIGHT=Kein Licht in dieser ewigen Finsternis...
+LOCATION_DESC_OUTER_COURTYARD=Die mächtigeren Bewohner des Gewölbes.
+LOCATION_DESC_INNER_COURTYARD=Die mächtigeren Bewohner des Gewölbes.
+LOCATION_DESC_PANDEMONIC_DEPTH=Ein Zauber mag das Tor geschlossen halten. Womöglich existiert eine Art Schlüssel, um die Magie aufzuheben?
+LOCATION_DESC_GUARIDANS=Uralte Wesen leben in dieser Höhle. Dies sind keine gewöhnlichen Monster, gib Acht!
+LOCATION_DESC_DINING_HALL=Ein verstecker Speisesaal... Sieht so aus, als wären wir nicht die ersten Abenteurer mutig genug für diesen Ort.
+LOCATION_UNLOCK_PRE_TEXT=Du besitzt ein Kartenfragment von 
+LOCATION_UNLOCK_POST_TEXT=wurde auf der Karte enthüllt
+
+END

@@ -1,0 +1,52 @@
+ARMORY_QUICKSELL=Strg + rechtsklick für Sofortverkauf
+ARMORY_LOADOUT=Ausrüstungssets
+
+ARMORY_POSSIBLE_AUGMENTATIONS=Mögliche Modifizierungen
+ARMORY_POSSIBLE_MUTATIONS=Mögliche Mutationen
+
+ARMORY_UNEQUIP_ALL=<br>Alles ablegen
+ARMORY_SELL_ALL_UNCOMMON=Verkaufe <br>Seltene Stücke
+ARMORY_SELL_ALL_NON_FAV=Verkaufe <br>Nicht-Favorisiert
+ARMORY_SELL_ALL_NON_PERFECT=Verkaufe <br>Unperfekt
+
+ARMORY_SELL_CONFIRMATION=Willst du dieses Item wirklich verkaufen?
+ARMORY_SELL_ALL_UNCOMMON_CONFIRMATION=Willst du alle seltenen Items wirklich verkaufen?
+ARMORY_SELL_ALL_NON_PERFECT_CONFIRMATION=Willst du alle unperfekten Items wirklich verkaufen?
+ARMORY_SELL_ALL_NON_FAV_CONFIRMATION=Willst du alle Nicht-Favoriten wirklich verkaufen?
+
+
+ARMORY_CHAOS_SLOT_UNLOCK_REQ=Benötigt drei Stücke von <color=#B58300FF>[MATERIAL_ASTRAL_FRAGMENT_NAME]</color>
+
+ARMORY_SORT_TITLE=Sortieren
+ARMORY_SORT_LATEST=Neueste
+ARMORY_SORT_RARITY=Rarität
+ARMORY_SORT_ITEMLVL=Itemlevel
+
+ARMORY_SORT_FAVORITE=<color=#FF911F>Favorite</color> - Favorisierte Ausrüstung bleibt von den "Verkaufe..."-Aktionen unbetroffen
+
+ARMORY_HOVER_DIVINE=<color=#FF911F>Legendär</color> - Eine mächtigere Version von {0}
+ARMORY_HOVER_DIVINABLE=<color=#FF911F>Gottespotenzial</color> - Erreicht Legendären Zustand wenn kombiniert mit [MATERIAL_DIVINATION_SPHERE_NAME]
+ARMORY_HOVER_CHAOTIC=<color=#FF911F>Chaotisch</color> - Benötigt Boss im Chaotisch-Zustand
+ARMORY_HOVER_ANOMALOUS=<color=#FF911F>Anomalie</color> - Eine alternative Version von {0}
+ARMORY_HOVER_PERFECT=<color=#FF911F>Perfekt</color> - Besitzt eine Basisqualität von 10 oder höher 
+ARMORY_FILTERS_TITLE=Filter
+ARMORY_FILTERS_WEAPON=Waffen
+ARMORY_FILTERS_ARMOR=Rüstung
+ARMORY_FILTERS_ACCESSORY=Accessoires
+ARMORY_FILTERS_GEM=Materialien
+ARMORY_FILTERS_OTHER=Verschiedenes
+ARMORY_FILTERS_AUGMENTED=Modifiziert
+ARMORY_FILTERS_HAS_SOCKETS=Sockelplätze
+ARMORY_FILTERS_UPGRADED=Verstärkt
+ARMORY_FILTERS_MUTATED=Mutiert
+
+ARMORY_REROLL_AUGMENT_DESC=Du kannst Modifizierungen sichern. <br>Für jede Sicherung erhöhen sich die Würfelkosten. <br>Gesicherte Modifizierungen werden nicht neugewürfelt
+ARMORY_UPGRADE_AUGMENT_DESC=Verwende [MATERIAL_THE_MAKER_NAME] um Modifizierung zu verbessern
+ARMORY_UPGRADE_ERROR_MAX_TIER_REACHED=Höchstes Level erreicht
+ARMORY_TRIO_REAUG_SELECT_OLD=Wähle vorhandene Modifizierung
+ARMORY_TRIO_REAUG_SELECT_NEW=Wähle eine neue Modifizierung
+
+ARMORY_ITEM_ACQUIRED_X=<br>Erhalten: {0}
+ARMORY_ITEM_MAX_STACK_X=<color=#{0}>Höchstlimit: {1}</color>
+
+END

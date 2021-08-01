@@ -1,0 +1,110 @@
+SETTINGS_GENERAL=Allgemein
+SETTINGS_CONTROL=Steuerung
+SETTINGS_GAMEPLAY=Spieloptionen
+SETTINGS_BACKTOMENU=Zum Hauptmenü
+SETTINGS_LANGUAGE=Sprache
+SETTINGS_DIFFICULTY=Schwierigkeit
+SETTINGS_EXIT=Spiel beenden
+
+SETTINGS_EXPORT_SAVE=Spielstand exportieren
+SETTINGS_EXPORT_SAVE_HARDCORE=Kann auf Hardcore nicht exportiert werden
+SETTINGS_EXPORT_SAVE_DESC=Fortschritt kann nach Export wiederhergestellt werden
+SETTINGS_EXPORT_USAGE_DESC=Importiere den Link, um Fortschritt des Spielstands zu transferieren/wiederherzustellen
+SETTINGS_EXPORT_COPY=Kopiere zu Zwischenablage
+SETTINGS_EXPORT_COPY_SUCCESS=Link kopiert!
+
+SETTINGS_IMPORT_SAVE=Spielstand importieren
+SETTINGS_IMPORT_SAVE_HARDCORE=Kann auf Hardcore nicht importiert werden
+SETTINGS_IMPORT_SAVE_DESC=Importiere Link um Fortschritt zu transferieren/wiederherzustellen
+SETTINGS_IMPORT_USAGE_DESC=Link vom Spielstand
+SETTINGS_IMPORT_WARNING=WARNUNG: Überschreibt aktuellen Spielstand!
+
+SETTINGS_IMPORT_PASTE_FROM_CLIPBOARD=Link einfügen
+
+
+SETTINGS_RESOLUTIONS=Auflösung
+SETTINGS_RESOLUTIONS_DESC=Bildschirmauflösung des Spiels
+
+SETTINGS_WINDOWED=Fenstermodus
+SETTINGS_WINDOWED_DESC=Wechselt zwischen Fenster- und Vollbildmodus (Vollbildauflösungen aktuell noch in Testphase)
+
+SETTINGS_MUSIC=Musik
+SETTINGS_SOUND=Sound
+
+SETTINGS_MUTE_AUDIO_IN_BKG=In Hintergrund stummschalten
+SETTINGS_MUTE_AUDIO_IN_BKG_DESC=Audio wird stummgeschalten, wenn Spiel minimiert/nicht aktives Fester ist
+
+SETTINGS_TARGET_FPS=Ziel-FPS
+SETTINGS_TARGET_FPS_DESC=Spiel wird auf gewünschter FPS-Zahl laufen (60 FPS empfohlen)
+
+SETTINGS_MILISEC=Millisekunden für Bestzeit-Anzeige
+SETTINGS_MILISEC_DESC=Gewährt eine genauere Anzeige für neue Rekorde und Bestzeiten
+
+SETTINGS_TALENT_HOVER=Cursor aktiviert Zauber/Talente
+SETTINGS_TALENT_HOVER_DESC=Bewege den Mauscursor über eine Fähigkeit oder Talente, um sie automatisch auszuwählen
+
+SETTINGS_DISABLE_ITEM_HOVER=Cursor-Itemtooltips deaktivieren
+SETTINGS_DISABLE_ITEM_HOVER_DESC=Tooltips werden nicht länger angezeigt, wenn sich der Mauscursor über einem Item befindet
+
+SETTINGS_ADDTIONAL_ARTIFACT_INFO=Erweiterte Artefaktinfos anzeigen
+SETTINGS_ADDTIONAL_ARTIFACT_INFO_DESC=Das Infofenster von Artefakten zeigt nun zusätzliche Informationen an (Qualität, Attributstufen)
+
+SETTINGS_ONLY_DMG_NUM=Nur signifikanten Schaden anzeigen
+SETTINGS_ONLY_DMG_NUM_DESC=Zeigt nur noch signifikante Schadenszahlen, abhängig der Maximal-Lebenspunkte des Gegners
+
+SETTINGS_ADDITIONAL_COMBAT_INFO=Erweiterte Informationen im Kampf
+SETTINGS_ADDITIONAL_COMBAT_INFO_DESC=Gewährt eine Anzeige zu den Attributen des ausgewählten Gruppenmitglieds als auch Gegners
+
+SETTINGS_AUTO_RESTART=Auto-Kampf
+SETTINGS_AUTO_RESTART_DESC=Startet einen Kampf nach fünf Sekunden automatisch erneut, sobald er beendet wurde. Auto-Kampf kann manuell abgebrochen werden oder endet, wenn das Inventar voll ist
+SETTINGS_AUTO_RESTART_WITH_CHAOS=Auto-Kampf mit Chaotisch
+SETTINGS_AUTO_RESTART_WITH_CHAOS_DESC=Auto-Kampf fügt nun automatisch die selbe Anzahl Chaoskristalle hinzu, wenn der Kampf auf Chaotisch gestartet wurde
+
+SETTINGS_QUICK_CAST=Schnellzauber
+SETTINGS_QUICK_CAST_DESC=Wählt nun automatisch ein Gruppenmitglied aus, wenn sich der Mauscursor über ihm befindet
+
+SETTINGS_KEYBINDINGS=Tastenbelegung
+SETTINGS_KEYBINDINGS_MOVE_LEFT=Nach links laufen
+SETTINGS_KEYBINDINGS_MOVE_RIGHT=Nach rechts laufen
+SETTINGS_KEYBINDINGS_SKILL_CAST=Fähigkeitsleiste
+SETTINGS_KEYBINDINGS_CHARACTER_SELECT=Charakter-Schnellauswahl
+
+SETTINGS_KEYBINDINGS_ENGAGE=Beginn
+SETTINGS_KEYBINDINGS_ENGAGE_DESC=Kampf beginnen
+SETTINGS_KEYBINDINGS_CANCEL_CAST=Zauber abbrechen
+SETTINGS_KEYBINDINGS_CANCEL_CAST_DESC=Aktuelle Fähigkeit/Kanalisierung abbrechen
+SETTINGS_KEYBINDINGS_SWITCH_TARGET=Ziel wechseln
+SETTINGS_KEYBINDINGS_SWITCH_TARGET_DESC=Den aktuell gewählten Gegner wechseln
+
+SETTINGS_SELECT_HOTKEYS_TO_CHANGE=Klicke Hotkey zum Ändern...
+SETTINGS_SELECT_HOTKEYS_ENTER_KEY=Neuen Hotkey bestätigen...
+
+
+SETTINGS_AUTO_ENGAGE=Auto-Start
+SETTINGS_AUTO_ENGAGE_DESC=Beginnt den Kampf automatisch sobald geladen
+
+SETTINGS_DISABLE_SCREENSHAKE=Monitorflackern deaktivieren
+SETTINGS_DISABLE_SCREENSHAKE_DESC=Deaktiviert Bildschirm-Flackereffekte
+
+SETTINGS_DISPLAY_MAX_HEALTH=Maximal-LP anzeigen
+SETTINGS_DISPLAY_MAX_HEALTH_DESC=Zeigt aktuelle als auch Maximal-LP an
+
+SETTINGS_DETAILED_RESTART=Erweiterter Neustart
+SETTINGS_DETAILED_RESTART_DESC=Zeigt zusätzliche Informationen, wenn Kampf nach dem Ende neugestartet wird
+
+SETTINGS_FASTER_ANIMATION=Schnelle Animationen
+SETTINGS_FASTER_ANIMATION_DESC=Beschleunigt die Beute-Animationen nach Erfolgreichem Kampf
+
+SETTINGS_MINIMAL_PARTICLES=Minimale Zaubereffekte
+SETTINGS_MINIMAL_PARTICLES_DESC=Deaktiviert und reduziert die meisten Zauber- und Partikeleffekte
+
+SETTINGS_VERTICAL_DMG_TEXT=Vertikale Schadenszahlen
+SETTINGS_VERTICAL_DMG_TEXT_DESC=Schwebende Schadenszahlen im Kampf werden nun vertikal angezeigt
+
+SETTINGS_ALWAYS_SHOW_SKILL_CD=Aktive Abklingzeiten
+SETTINGS_ALWAYS_SHOW_SKILL_CD_DESC=Abklingzeit von Fähigkeiten wird weiterhin angezeigt, selbst wenn weitere Aufladungen vorhanden sind
+
+SETTINGS_CHANGE_DIFFICULTY_TITLE=Schwierigkeit ändern
+
+SETTINGS_LANGUAGE_IN_TESTING=Lokalisation in Testphase, Fehler und Bugs können vorhanden sein
+END
