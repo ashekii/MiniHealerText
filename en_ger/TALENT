@@ -286,245 +286,245 @@ TALENT_VITALIZED_FLOW_MASTERY_DESC= Heilkraft pro Aufladung
 
 
 TALENT_CONVOCATION_MANA=Reduziert das erhaltene Mana von [LINK_SKILL_REJUVENATE] um {0}
-TALENT_CONVOCATION_CD=Cooldown of [LINK_SKILL_REJUVENATE] is reduced to 1 second (Unaffected by other cooldown reduction effect)
-TALENT_CONVOCATION_CHANNEL=[LINK_SKILL_REJUVENATE] is now a channelling ability
-TALENT_ELEMENTAL_INFUSION_FIRE=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_FIRE_DAMAGE] by {0}%
-TALENT_ELEMENTAL_INFUSION_ICE=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_ICE_DAMAGE] by {0}%
-TALENT_ELEMENTAL_INFUSION_LIGHTNING=[LINK_SKILL_RESTORATION_TOTEM] also increases [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] by {0}%
-TALENT_BLOSSOM_CAST=[CONTEXT_PARTY_MEMBER_NAME_HEALER] will occasionally cast Blossom, healing all party members for {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
-TALENT_BLOSSOM_RESISTS=Blossom also increases [ATTRIBUTE_ALL_RESISTS_TEXT] by {0}% for a short duration
-TALENT_BLOSSOM_MASTERY=% Blossom healpower healing ratio
+TALENT_CONVOCATION_CD=Reduziert die Abklingzeit von [LINK_SKILL_REJUVENATE] auf 1 Sekunde
+TALENT_CONVOCATION_CHANNEL=[LINK_SKILL_REJUVENATE] ist nun eine kanalisierte Fähigkeit
+TALENT_ELEMENTAL_INFUSION_FIRE=[LINK_SKILL_RESTORATION_TOTEM] erhöht nun [ATTRIBUTE_BASE_FIRE_DAMAGE] um {0}%
+TALENT_ELEMENTAL_INFUSION_ICE=[LINK_SKILL_RESTORATION_TOTEM] erhöht nun [ATTRIBUTE_BASE_ICE_DAMAGE] um {0}%
+TALENT_ELEMENTAL_INFUSION_LIGHTNING=[LINK_SKILL_RESTORATION_TOTEM] erhöht nun [ATTRIBUTE_BASE_LIGHTNING_DAMAGE] um {0}%
+TALENT_BLOSSOM_CAST=[CONTEXT_PARTY_MEMBER_NAME_HEALER] verwendet periodisch Erblühen, heilt alle Gruppenmitglieder um {0}% der [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+TALENT_BLOSSOM_RESISTS=Erblühen erhöht für kurze Zeit [ATTRIBUTE_ALL_RESISTS_TEXT] um {0}%
+TALENT_BLOSSOM_MASTERY=% Skalierung Heilkraft
 
 
-TALENT_NATURES_BLESSING_NAME=Nature's Blessing
-TALENT_ABUNDANT_GROWTH_NAME=Abundant Growth
-TALENT_CONJURATION_NAME=Conjuration
-TALENT_HARMONY_NAME=Harmony
-TALENT_ECLIPSE_NAME=Eclipse
-TALENT_NATURE_GIFT_NAME=Flourish
-TALENT_POISON_NAME=Poison
-TALENT_TREEFOLK_ASPECT_NAME=Aspect of the Treefolk
-TALENT_SPIRIT_RITUAL_NAME=Spirit Connection
-TALENT_NIMBLE_AURA_NAME=Nimble Aura
-TALENT_HYMN_NAME=Hymn
-TALENT_FOREST_BLESSING_NAME=Blessing of the Forest
-TALENT_REGEN_AURA_NAME=Regen Aura
+TALENT_NATURES_BLESSING_NAME=Segen der Natur
+TALENT_ABUNDANT_GROWTH_NAME=Reicher Wachstum
+TALENT_CONJURATION_NAME=Beschwörung
+TALENT_HARMONY_NAME=Harmonie
+TALENT_ECLIPSE_NAME=Eklipse
+TALENT_NATURE_GIFT_NAME=Gedeihen
+TALENT_POISON_NAME=Toxin
+TALENT_TREEFOLK_ASPECT_NAME=Aspekt des Baumvolkes
+TALENT_SPIRIT_RITUAL_NAME=Geisterverbindung
+TALENT_NIMBLE_AURA_NAME=Aura des Falken
+TALENT_HYMN_NAME=Hymne
+TALENT_FOREST_BLESSING_NAME=Segen des Waldes
+TALENT_REGEN_AURA_NAME=Aura der Erneuerung
 TALENT_BOTANIST_NAME=Botanist
-TALENT_TYPHOON_NAME=Typhoon
-TALENT_RAPID_SHOT_NAME=Rapid Shot
-TALENT_SHADE_NAME=Shade
-TALENT_EVERGREEN_NAME=Evergreen
-TALENT_NEW_SPRING_NAME=New Spring
-TALENT_POISON_MASTERY_NAME=Poison Making
-TALENT_TROLL_BLOOD_NAME=Mother's Gift
-TALENT_JUNGLE_SURVIVAL_NAME=Survival Instinct
-TALENT_HEIGHTENED_SENSES_NAME=Heightened Senses
-TALENT_FROST_BITE_NAME=Frost Bite
-TALENT_STAR_CALL_NAME=Planetary Alignment
-TALENT_TRANQUILITY_NAME=Tranquility
-TALENT_REACTIVE_INSTINCT_NAME=Reactive Instinct
-TALENT_ASTRAL_SHIFT_NAME=Astral Shift
-TALENT_OSMOSIS_NAME=Osmosis
-TALENT_STONE_FORM_NAME=Stone Form
-TALENT_RENEWING_MIST_NAME=Renewing Mist
-TALENT_CAREFUL_AIM_NAME=Careful Aim
-TALENT_DEEP_MIND_NAME=Deep Mind
-TALENT_CONVOCATION_NAME=Convocation
-TALENT_VITALIZED_FLOW_NAME=Vitalized Flow
-TALENT_INVIGORATE_NAME=Invigorate
-TALENT_FROZEN_TOUCH_NAME=Frozen Sphere
-TALENT_ELEMENTAL_INFUSION_NAME=One with Nature
-TALENT_BLOSSOM_NAME=Blossom
-TALENT_PATHS_END_NAME=Path's End
-TALENT_PATH_OF_LIGHT_NAME=Path of Light
+TALENT_TYPHOON_NAME=Taifun
+TALENT_RAPID_SHOT_NAME=Schnellschuss
+TALENT_SHADE_NAME=Schatten
+TALENT_EVERGREEN_NAME=Ewiges Grün
+TALENT_NEW_SPRING_NAME=Neuer Frühling
+TALENT_POISON_MASTERY_NAME=Giftkunst
+TALENT_TROLL_BLOOD_NAME=Mutter Natur
+TALENT_JUNGLE_SURVIVAL_NAME=Überlebensinstinkt
+TALENT_HEIGHTENED_SENSES_NAME=Scharfer Sinn
+TALENT_FROST_BITE_NAME=Frostbeule
+TALENT_STAR_CALL_NAME=Planetare Ausrichtung
+TALENT_TRANQUILITY_NAME=Gelassenheit
+TALENT_REACTIVE_INSTINCT_NAME=Reaktiver Instinkt
+TALENT_ASTRAL_SHIFT_NAME=Astralverschiebung
+TALENT_OSMOSIS_NAME=Osmose
+TALENT_STONE_FORM_NAME=Steinform
+TALENT_RENEWING_MIST_NAME=Heilender Nebel
+TALENT_CAREFUL_AIM_NAME=Gezielter Schuss
+TALENT_DEEP_MIND_NAME=Tiefe Gedanken
+TALENT_CONVOCATION_NAME=Einberufung
+TALENT_VITALIZED_FLOW_NAME=Vitaler Fluss
+TALENT_INVIGORATE_NAME=Stärken
+TALENT_FROZEN_TOUCH_NAME=Frostsphäre
+TALENT_ELEMENTAL_INFUSION_NAME=Eins mit Natur
+TALENT_BLOSSOM_NAME=Erblühen
+TALENT_PATHS_END_NAME=Letzter Wille
+TALENT_PATH_OF_LIGHT_NAME=Pfad des Lichts
 TALENT_HOLY_SHIELD_NAME=Absolution
-TALENT_STRENGTHEN_NAME=Strengthen
-TALENT_HELPING_HANDS_NAME=Helping Hands
-TALENT_UNDEFILED_NAME=Undefiled
-TALENT_LIGHTS_GUIDANCE_NAME=Light's Guidance
-TALENT_VIRTUOUS_SPIRIT_NAME=Virtuous Spirit
-TALENT_SHIELD_BASH_NAME=Shield Bash
-TALENT_ENERGY_AURA_NAME=Energy Aura
-TALENT_PROTECTION_AURA_NAME=Protection Aura
-TALENT_HEROISM_NAME=Heroism
-TALENT_AURA_MASTERY_NAME=Aura Mastery
-TALENT_FORTUNATE_FAITH_NAME=Fortunate Faith
-TALENT_RAMPART_NAME=Rampart
-TALENT_FORTIFICATION_AURA_NAME=Fortification Aura
-TALENT_TIME_IN_NEED_NAME=Time in Need
-TALENT_LEADERSHIP_NAME=Leadership
-TALENT_ORACLE_NAME=Oracle
-TALENT_LAST_STAND_NAME=Last Stand
-TALENT_SMITE_NAME=Shock
-TALENT_PIETY_NAME=Piety
-TALENT_HOLY_FURY_NAME=Judgement
-TALENT_BODY_AND_MIND_NAME=Body and Mind
-TALENT_RAPTURE_NAME=Rapture
-TALENT_FEATHERED_FOOTWORK_NAME=Feathered Footwork
-TALENT_TWIST_OF_FATE_NAME=Twist of Fate
-TALENT_DIVINE_AEGIS_NAME=Divine Aegis
-TALENT_RETRIBUTION_NAME=Pure In Heart
-TALENT_FINAL_VERDICT_NAME=Final Verdict
-TALENT_BURNING_JUSTICE_NAME=Burning Justice
-TALENT_HOLY_HALO_NAME=Holy Halo
-TALENT_ANGELIC_INFUSION_NAME=Blessed Wings
-TALENT_DIVINE_PURPOSE_NAME=Divine Purpose
-TALENT_DEVOTION_NAME=Devotion
-TALENT_THUNDER_ASSAULT_NAME=Thunder Assault
-TALENT_UNITY_NAME=Unity
-TALENT_FOCUSED_PRAYER_NAME=Focused Prayer
-TALENT_SALVATION_NAME=Salvation
-TALENT_DARK_MAGIC_NAME=Dark Magic
-TALENT_SACRIFICE_NAME=Sacrifice
-TALENT_SURGE_NAME=Surge
-TALENT_DEMON_KNOWLEDGE_NAME=Demon Knowledge
-TALENT_ERADICATION_NAME=Eradication
-TALENT_SOUL_BOOST_NAME=Soul Boost
-TALENT_SIPHON_LIFE_NAME=Hypocrisy
-TALENT_VAMPIRISM_NAME=Vampirism
-TALENT_DECAY_AURA_NAME=Decay Aura
-TALENT_BANISH_NAME=Rune of Despair
-TALENT_HAVOC_AURA_NAME=Havoc Aura
-TALENT_HEXING_NAME=Hexing
-TALENT_DECEPTION_NAME=Deception
-TALENT_MISERY_NAME=Misery
-TALENT_AGONY_NAME=Repose of the Arcane
-TALENT_IMMOLATE_NAME=Immolate
-TALENT_CHAOS_STRIKE_NAME=Chaos Strike
-TALENT_VOODOO_MAGIC_NAME=Voodoo Magic
-TALENT_NEMESIS_INFUSION_NAME=Nemesis Infusion
-TALENT_SOUL_CONDUIT_NAME=Soul Conduit
-TALENT_UNHOLY_MIGHT_NAME=Unholy Might
+TALENT_STRENGTHEN_NAME=Verstärken
+TALENT_HELPING_HANDS_NAME=Helfende Hand
+TALENT_UNDEFILED_NAME=Unbefleckt
+TALENT_LIGHTS_GUIDANCE_NAME=Lichtsegen
+TALENT_VIRTUOUS_SPIRIT_NAME=Geist der Tugend
+TALENT_SHIELD_BASH_NAME=Schildhieb
+TALENT_ENERGY_AURA_NAME=Aura des Zeus
+TALENT_PROTECTION_AURA_NAME=Aura der Hingabe
+TALENT_HEROISM_NAME=Heldentum
+TALENT_AURA_MASTERY_NAME=Aurameisterschaft
+TALENT_FORTUNATE_FAITH_NAME=Gesegneter Glaube
+TALENT_RAMPART_NAME=Schutzwall
+TALENT_FORTIFICATION_AURA_NAME=Aura des Schutzes
+TALENT_TIME_IN_NEED_NAME=Zeit drängt
+TALENT_LEADERSHIP_NAME=Anführer
+TALENT_ORACLE_NAME=Orakel
+TALENT_LAST_STAND_NAME=Letztes Gefecht
+TALENT_SMITE_NAME=Schock
+TALENT_PIETY_NAME=Frömmigkeit
+TALENT_HOLY_FURY_NAME=Urteil
+TALENT_BODY_AND_MIND_NAME=Körper und Geist
+TALENT_RAPTURE_NAME=Himmelsreise
+TALENT_FEATHERED_FOOTWORK_NAME=Federleicht
+TALENT_TWIST_OF_FATE_NAME=Ironie des Schicksals
+TALENT_DIVINE_AEGIS_NAME=Göttliche Ägis
+TALENT_RETRIBUTION_NAME=Pures Herz
+TALENT_FINAL_VERDICT_NAME=Wahres Urteil
+TALENT_BURNING_JUSTICE_NAME=Feurige Gerechtigkeit
+TALENT_HOLY_HALO_NAME=Heiligenschein
+TALENT_ANGELIC_INFUSION_NAME=Gesegnete Schwingen
+TALENT_DIVINE_PURPOSE_NAME=Himmlische Absicht
+TALENT_DEVOTION_NAME=Zuneigung
+TALENT_THUNDER_ASSAULT_NAME=Donnersturm
+TALENT_UNITY_NAME=Einigkeit
+TALENT_FOCUSED_PRAYER_NAME=Fokussiertes Gebet
+TALENT_SALVATION_NAME=Erlösung
+TALENT_DARK_MAGIC_NAME=Dunkle Magie
+TALENT_SACRIFICE_NAME=Opfergabe
+TALENT_SURGE_NAME=Woge
+TALENT_DEMON_KNOWLEDGE_NAME=Dämonisches Wissen
+TALENT_ERADICATION_NAME=Ausrottung
+TALENT_SOUL_BOOST_NAME=Starke Seele
+TALENT_SIPHON_LIFE_NAME=Heuchlerei
+TALENT_VAMPIRISM_NAME=Vampirismus
+TALENT_DECAY_AURA_NAME=Aura der Gebrechen
+TALENT_BANISH_NAME=Rune der Verzweiflung
+TALENT_HAVOC_AURA_NAME=Aura des Löwen
+TALENT_HEXING_NAME=Verfluchen
+TALENT_DECEPTION_NAME=Betrügen
+TALENT_MISERY_NAME=Leid
+TALENT_AGONY_NAME=Arkane Ruhe
+TALENT_IMMOLATE_NAME=Feuerbrand
+TALENT_CHAOS_STRIKE_NAME=Chaosstoß
+TALENT_VOODOO_MAGIC_NAME=Voodoo
+TALENT_NEMESIS_INFUSION_NAME=Schatteninfusion
+TALENT_SOUL_CONDUIT_NAME=Seelenverbindung
+TALENT_UNHOLY_MIGHT_NAME=Unheilige Macht
 TALENT_DEMONIFY_NAME=Vortex
-TALENT_VOID_CHAINS_NAME=Void Chains
-TALENT_DEMON_SKIN_NAME=Demon Skin
-TALENT_REAPER_OF_SOULS_NAME=Reaper of Souls
-TALENT_DEMONIC_RING_NAME=Demonic Ring
-TALENT_BLOOD_RITUAL_NAME=Blood Ritual
-TALENT_VOID_INFLUENCE_NAME=Void Influence
-TALENT_MARK_OF_DEATH_NAME=Mark of Death
-TALENT_UNSTABLE_MAGIC_NAME=Unstable Magic
-TALENT_SHADOW_ENTROPY_NAME=Shadow Entropy
-TALENT_OBLITERATE_NAME=Obliterate
-TALENT_FORBIDDEN_CHAPTER_NAME=Forbidden Chapter
-TALENT_SHADOW_FURY_NAME=Shadow Fury
-TALENT_CHAOTIC_INFUSION_NAME=Chaotic Infusion
-TALENT_WICKED_BLOOM_NAME=Wicked Bloom
-TALENT_DEAD_WHISPER_NAME=Whisper of the Dead
-TALENT_CATACLYSM_NAME=Cataclysm
+TALENT_VOID_CHAINS_NAME=Fesseln der Leere
+TALENT_DEMON_SKIN_NAME=Dämonenhaut
+TALENT_REAPER_OF_SOULS_NAME=Seelenschnitter
+TALENT_DEMONIC_RING_NAME=Leerenzirkel
+TALENT_BLOOD_RITUAL_NAME=Blutritual
+TALENT_VOID_INFLUENCE_NAME=Des Abgrunds Einfluss
+TALENT_MARK_OF_DEATH_NAME=Todesmal
+TALENT_UNSTABLE_MAGIC_NAME=Instabile Magie
+TALENT_SHADOW_ENTROPY_NAME=Schattenentropie
+TALENT_OBLITERATE_NAME=Auslöschen
+TALENT_FORBIDDEN_CHAPTER_NAME=Verbotene Abteilung
+TALENT_SHADOW_FURY_NAME=Schattengewalt
+TALENT_CHAOTIC_INFUSION_NAME=Chaotische Infusion
+TALENT_WICKED_BLOOM_NAME=Blüte des Bösen
+TALENT_DEAD_WHISPER_NAME=Todesflüstern
+TALENT_CATACLYSM_NAME=Kataklysmus
 
 
 
-TALENT_RESILIENCE_NAME=Resilience
+TALENT_RESILIENCE_NAME=Resilienz
 
-TALENT_BULWARK_NAME=Bulwark
+TALENT_BULWARK_NAME=Bollwerk
 
-TALENT_BLESSED_SPIRIT_NAME=Blessed Spirit
-TALENT_BLESSED_SPIRIT_DESC=Increase the effect of all single target and non heal over time healing skills by {0}% <br><br>Increase the effect of all buff skills by {0}%
+TALENT_BLESSED_SPIRIT_NAME=Gesegneter Geist
+TALENT_BLESSED_SPIRIT_DESC=Erhöht die Heilung aller Nicht-Überzeit Einzelzielzauber um {0}% <br><br>Erhöht den Effekt aller Buff-Fähigkeiten um {0}%
 
-TALENT_REDEMPTION_NAME=Redemption
-TALENT_REDEMPTION_DESC=Casting [LINK_SKILL_DIVINE_MEND] will increase the effect of all subsequent [LINK_SKILL_DIVINE_MEND] by {0}% <br><br>The bonuses is lost upon casting spells other than [LINK_SKILL_DIVINE_MEND], [LINK_SKILL_DIVINE_FOCUS], [LINK_SKILL_DISPEL], [LINK_SKILL_NEGATE]
-TALENT_REDEMPTION_POST_TEXT= [TALENT_REDEMPTION_NAME] maximum stack
+TALENT_REDEMPTION_NAME=Errettung
+TALENT_REDEMPTION_DESC=Jede Anwendung von [LINK_SKILL_DIVINE_MEND] verstärkt alle folgenden Anwendungen des selben Zaubers um {0}% <br><br>Effekt wird entfernt, wenn andere Fähigkeiten als [LINK_SKILL_DIVINE_MEND], [LINK_SKILL_DIVINE_FOCUS], [LINK_SKILL_DISPEL] oder [LINK_SKILL_NEGATE] verwendet werden
+TALENT_REDEMPTION_POST_TEXT= maximale Aufladungen
 
-TALENT_ZEAL_NAME=Zeal
-TALENT_ZEAL_DESC=[LINK_SKILL_CLEANSING_RAY] grants a Zeal stack to the target every second, up to a maximum of {0} stacks <br><br>Each Zeal stack increases base damage by {1}% and attack speed by {2}% for {3} seconds  <br><br>Each Zeal stack also reduces healing received from [SKILL_CLEANSING_RAY_NAME] by {4}%
-TALENT_ZEAL_MASTERY_DESC= [TALENT_ZEAL_NAME] maximum stack
+TALENT_ZEAL_NAME=Eifer
+TALENT_ZEAL_DESC=[LINK_SKILL_CLEANSING_RAY] segnet das Ziel jede Sekunde mit Eifer, bis zu {0} Aufladungen <br><br>Erhöht für {3} Sekunden pro Aufladung Basisschaden um {1}% und Angriffstempo um {2}% <br><br>Jede Aufladung verringert die erhaltene Heilung durch [SKILL_CLEANSING_RAY_NAME] um {4}%
+TALENT_ZEAL_MASTERY_DESC= maximale Aufladungen
 
-TALENT_FULLFILLMENT_NAME=Fullfillment
-TALENT_FULLFILLMENT_DESC=At level 1, [LINK_SKILL_SEAL_OF_LIGHT] can critically heal. <br><br>At level 2, [LINK_SKILL_SEAL_OF_LIGHT] can critically strike. <br><br>At level 3, [LINK_SKILL_SEAL_OF_LIGHT] can now stacks to a maximum of 2 times
+TALENT_FULLFILLMENT_NAME=Erfüllung
+TALENT_FULLFILLMENT_DESC=Rang 1: [LINK_SKILL_SEAL_OF_LIGHT] kann nun kritisch heilen <br><br>Rang 2: [LINK_SKILL_SEAL_OF_LIGHT] kann nun kritisch treffen <br><br>Rang 3: [LINK_SKILL_SEAL_OF_LIGHT] kann nun pro Ziel 2x gestapelt werden
 
-TALENT_FOCUSED_GLORY_NAME=Focused Glory
-TALENT_FOCUSED_GLORY_DESC=[LINK_SKILL_RENEW] now heals {0}% more per tick if there is only 1 party member affected by it
+TALENT_FOCUSED_GLORY_NAME=Klarer Ruhm
+TALENT_FOCUSED_GLORY_DESC=Erhöht die Intervallheilung von [LINK_SKILL_RENEW] um {0}%, wenn nur ein Gruppenmitglied vom Effekt betroffen ist
 
-TALENT_SWORD_AND_BOARD_NAME=Sword and Board
-TALENT_SWORD_AND_BOARD_DESC=While wearing at least 1 sword and at least 1 shield, +{0} to all [CONTEXT_TALENT_CLASS_PALADIN] skill level<sprite=8>
+TALENT_SWORD_AND_BOARD_NAME=Midos Wille
+TALENT_SWORD_AND_BOARD_DESC=Erhöht alle [CONTEXT_TALENT_CLASS_PALADIN]-Talente<sprite=8> um +{0}, wenn mindestens 1 Schwert und Schild angelegt ist
 
-TALENT_TOUGH_AS_NAIL_NAME=Tough as Nail
+TALENT_TOUGH_AS_NAIL_NAME=Knallhart
 
-TALENT_GLIMMER_OF_HOPE_NAME=Glimmer of Hope
-TALENT_GLIMMER_OF_HOPE_DESC=[LINK_SKILL_SEAL_OF_LIGHT] leaves a [LINK_SKILL_SPIRIT_ORB] when triggered
+TALENT_GLIMMER_OF_HOPE_NAME=Ein Funken Hoffnung
+TALENT_GLIMMER_OF_HOPE_DESC=[LINK_SKILL_SEAL_OF_LIGHT] hinterlässt bei Auslösung den Effekt [LINK_SKILL_SPIRIT_ORB]
 
-TALENT_DIVINATION_AURA_NAME=Divination Aura
+TALENT_DIVINATION_AURA_NAME=Aura der Astrologie
 
-TALENT_EBB_AND_FLOW_NAME=Ebb and Flow
-TALENT_EBB_AND_FLOW_DESC=Every {0} seconds<br><br>All party members gain {1}% [ATTRIBUTE_ALL_RESISTS_TEXT] but takes {2}% less [ATTRIBUTE_HEALING_RECEIVED] for {3} seconds. <br><br>Then all party members takes {2}% more [ATTRIBUTE_HEALING_RECEIVED] but lose {1}% [ATTRIBUTE_ALL_RESISTS_TEXT] for {3} seconds
+TALENT_EBB_AND_FLOW_NAME=Ebbe und Flut
+TALENT_EBB_AND_FLOW_DESC=Alle {0} Sekunden: <br><br>Gewährt der Gruppe +{1}% [ATTRIBUTE_ALL_RESISTS_TEXT] und verringert [ATTRIBUTE_HEALING_RECEIVED] um {2}%, für {3} Sekunden <br><br>Gewährt anschließend +{2}% [ATTRIBUTE_HEALING_RECEIVED] und verringert [ATTRIBUTE_ALL_RESISTS_TEXT] um {1}%, für {3} Sekunden
 
-TALENT_DIVINE_DECREE_NAME=Divine Decree
-TALENT_DIVINE_DECREE_DESC=Whenever an enemy blocks or dodges an attack, they can not dodge or block again in {0} seconds <br><br>Whenever an enemy is healed, they can not be healed again in {1} seconds
-TALENT_DIVINE_DECREE_MASTERY_DESC=+1 second [TALENT_DIVINE_DECREE_NAME] duration
+TALENT_DIVINE_DECREE_NAME=Göttliches Geheiß
+TALENT_DIVINE_DECREE_DESC=Der Gegner kann nach erfolgreichem Blocken/Ausweichen für {0} Sekunden nicht erneut Blocken/Ausweichen <br><br>Der Gegner kann nach erhaltener Heilung für {1} Sekunden keine weitere Heilung erhalten
+TALENT_DIVINE_DECREE_MASTERY_DESC=+1 Sekunde Dauer des Effekts
 
-TALENT_PUNISH_NAME=Punish
-TALENT_PUNISH_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] can now critically strike
-TALENT_PUNISH_MASTERY_DESC=Focused [SKILL_HAMMER_OF_RECKONING_NAME] can now critically heal
+TALENT_PUNISH_NAME=Bestrafung
+TALENT_PUNISH_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] kann nun kritisch treffen
+TALENT_PUNISH_MASTERY_DESC=Wenn fokussiert, [SKILL_HAMMER_OF_RECKONING_NAME] kann nun kritisch treffen
 
-TALENT_BLESSING_OF_WARDING_NAME=Blessing of Warding
-TALENT_BLESSING_OF_WARDING_DESC=Increase the duration of [LINK_SKILL_SANCTUARY] by {0} seconds <br><br>Reduce the cooldown of [LINK_SKILL_SANCTUARY] by {1} seconds
-TALENT_BLESSING_OF_WARDING_MASTERY_DESC=-5 seconds [SKILL_SANCTUARY_NAME] cooldown
+TALENT_BLESSING_OF_WARDING_NAME=Gesegneter Schutz
+TALENT_BLESSING_OF_WARDING_DESC=Erhöht die Effektdauer von [LINK_SKILL_SANCTUARY] um {0} Sekunden <br><br>Reduziert die Abklingzeit von [LINK_SKILL_SANCTUARY] um {1} Sekunden
+TALENT_BLESSING_OF_WARDING_MASTERY_DESC=-5 Sekunden Abklingzeit von [SKILL_SANCTUARY_NAME]
 
-TALENT_SEIZE_THE_MOMENT_NAME=Seize the Moment
-TALENT_SEIZE_THE_MOMENT_DESC=[LINK_SKILL_DIVINE_FOCUS] now start its cooldown when it is casted instead of when it is consumed
+TALENT_SEIZE_THE_MOMENT_NAME=Gunst der Stunde
+TALENT_SEIZE_THE_MOMENT_DESC=[LINK_SKILL_DIVINE_FOCUS] beginnt die Abklingzeit nun nach Anwendung, anstatt nach Auslösung des Effekts
 
-TALENT_IMMOVABLE_FORTRESS_NAME=Immovable Fortress
-TALENT_IMMOVABLE_FORTRESS_DESC=Reduce the effect of all movement speed slowing effects by {0}% <br><br>Reduce the duration of all slience effects by {1}% <br><br>When the [CONTEXT_PARTY_MEMBER_NAME_HEALER] stands still for {2} seconds, she will take {3}% less all damage 
+TALENT_IMMOVABLE_FORTRESS_NAME=Eiserne Festung
+TALENT_IMMOVABLE_FORTRESS_DESC=Reduziert den Effekt aller negativen Bewegungseinschränkungen um {0}% <br><br>Reduziert die Dauer aller Schweigeeffekte um {1}% <br><br>Der [CONTEXT_PARTY_MEMBER_NAME_HEALER] nimmt {3}% weniger Schaden, wenn sie für {2} Sekunden stillsteht
 
-TALENT_RING_OF_INFLUENCE_NAME=Ring of Influence
-TALENT_RING_OF_INFLUENCE_DESC=[CONTEXT_PARTY_MEMBER_NAME_HEALER] gains an Influential Ring. <br><br>Other party memebers within the ring gain {0}% [ATTRIBUTE_HEALING_RECEIVED]
+TALENT_RING_OF_INFLUENCE_NAME=Ruhezirkel
+TALENT_RING_OF_INFLUENCE_DESC=Beschwört einen Ring um den [CONTEXT_PARTY_MEMBER_NAME_HEALER] <br><br>Erhöht die [ATTRIBUTE_HEALING_RECEIVED] aller Gruppenmitglieder innerhalb des Ringes um {0}% 
 
-TALENT_VENGEFUL_CRUSADE_NAME=Vengeful Crusade
-TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] now has 2 charges. <br><br>At level 3, [LINK_SKILL_HAMMER_OF_RECKONING] will also deal [ATTRIBUTE_FIRE_DAMAGE] equal to {0}% of its damage dealt over {1} seconds if it consumed at least {2} [LINK_SKILL_SEAL_OF_LIGHT]
+TALENT_VENGEFUL_CRUSADE_NAME=Rachsüchtiger Kreuzzug
+TALENT_VENGEFUL_CRUSADE_DESC=[LINK_SKILL_HAMMER_OF_RECKONING] besitzt nun 2 Aufladungen <br><br>Rang 3: [LINK_SKILL_HAMMER_OF_RECKONING] fügt zusätzlich innerhalb von {1} Sekunden {0}% des Schadens als [ATTRIBUTE_FIRE_DAMAGE] zu, wenn mindestens {2} [LINK_SKILL_SEAL_OF_LIGHT] konsumiert wurden
 
 TALENT_INQUISITION_NAME=Inquisition
-TALENT_INQUISITION_DESC=Whenver [LINK_SKILL_DIVINE_MEND] , [LINK_SKILL_LESSER_HEAL] , [LINK_SKILL_CLEANSING_RAY] , [LINK_SKILL_FLASH_HEAL] critically heals, the cooldown of [LINK_SKILL_DIVINE_FOCUS] is reduced by {0} seconds
-TALENT_INQUISITION_MASTERY_DESC= second [TALENT_INQUISITION_NAME] cooldown reduction
+TALENT_INQUISITION_DESC=Reduziert die Abklingzeit von [LINK_SKILL_DIVINE_FOCUS] um {0} Sekunden, wenn [LINK_SKILL_DIVINE_MEND], [LINK_SKILL_LESSER_HEAL], [LINK_SKILL_CLEANSING_RAY] oder [LINK_SKILL_FLASH_HEAL] kritisch heilen
+TALENT_INQUISITION_MASTERY_DESC= Sekunde Reduktion Abklingzeit
 
-TALENT_TAUNT_NAME=Taunt
-TALENT_TAUNT_DESC=Every {0} seconds, all enemies will auto attack the [CONTEXT_PARTY_MEMBER_NAME_HEALER] instead of [CONTEXT_PARTY_MEMBER_NAME_TANK] for {1} seconds. <br><br>Taunted enemy deals {2}% less damage and take {3}% more damage
-TALENT_TAUNT_MASTERY_DESC= [TALENT_TAUNT_NAME] duration
+TALENT_TAUNT_NAME=Spotten
+TALENT_TAUNT_DESC=Der [CONTEXT_PARTY_MEMBER_NAME_HEALER] lenkt für {1} Sekunden alle gegnerischen Angriffe auf sich selbst, Effekt wirkt alle {0} Sekunden <br><br>Gespottete Gegner fügen {2}% weniger Schaden zu und erhalten {3}% mehr Schaden
+TALENT_TAUNT_MASTERY_DESC= Dauer des Effekts
 
-TALENT_INTO_THE_FRAY_NAME=Into the Fray
-TALENT_INTO_THE_FRAY_DESC=While being close to Tank, [CONTEXT_PARTY_MEMBER_NAME_HEALER] can auto attack while casting.
+TALENT_INTO_THE_FRAY_NAME=Auf in den Kampf
+TALENT_INTO_THE_FRAY_DESC=Erlaubt das gleichzeitige Zaubern und Angreifen des [CONTEXT_PARTY_MEMBER_NAME_HEALER], solange sie sich nahe dem Tank befindet
 
-TALENT_GLEAMING_FAITH_NAME=Gleaming Faith
-TALENT_GLEAMING_FAITH_DESC=[LINK_SKILL_SACRED_INFUSION] also increases target's [ATTRIBUTE_ELE_RESISTS_TEXT] by {0}%, [ATTRIBUTE_HEALTH_REGENERATION] by {1}, and [ATTRIBUTE_PHYSICAL_RESIST] by {2}%
-TALENT_GLEAMING_FAITH_MASTERY_DESC= second [SKILL_SACRED_INFUSION_NAME] duration
+TALENT_GLEAMING_FAITH_NAME=Gleißender Glaube
+TALENT_GLEAMING_FAITH_DESC=[LINK_SKILL_SACRED_INFUSION] erhöht zusätzlich [ATTRIBUTE_ELE_RESISTS_TEXT] um {0}%, [ATTRIBUTE_HEALTH_REGENERATION] um {1} und [ATTRIBUTE_PHYSICAL_RESIST] um {2}%
+TALENT_GLEAMING_FAITH_MASTERY_DESC= Sekunde Dauer des Effekts
 
-TALENT_BLESSED_COMPANY_NAME=Blessed Company
-TALENT_BLESSED_COMPANY_DESC=[CONTEXT_PARTY_MEMBER_NAME_TANK]'s attacks have a {0}% chance to increase his [ATTRIBUTE_PHYSICAL_RESIST] by {1}% for {2} seconds <br><br>[CONTEXT_PARTY_MEMBER_NAME_BERZERKER] and [CONTEXT_PARTY_MEMBER_NAME_RANGER]'s attacks have a {3}% chance to deal extra [ATTRIBUTE_FIRE_DAMAGE] equal to {4}% of their [ATTRIBUTE_BASE_DAMAGE_TEXT]. <br><br>[CONTEXT_PARTY_MEMBER_NAME_HEALER]'s attacks have a {5}% chance to heal all party members for {6}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT].  
-TALENT_BLESSED_COMPANY_MASTERY_DESC=% [TALENT_BLESSED_COMPANY_NAME] trigger chance for all party members
+TALENT_BLESSED_COMPANY_NAME=Gesegnete Gesellschaft
+TALENT_BLESSED_COMPANY_DESC=Angriffe des [CONTEXT_PARTY_MEMBER_NAME_TANK]: {0}% Chance auf +{1}% [ATTRIBUTE_PHYSICAL_RESIST] für {2} Sekunden <br><br>Angriffe des [CONTEXT_PARTY_MEMBER_NAME_BERZERKER]/[CONTEXT_PARTY_MEMBER_NAME_RANGER]: {3}% Chance zusätzlich [ATTRIBUTE_FIRE_DAMAGE] zuzufügen, basierend auf {4}% des [ATTRIBUTE_BASE_DAMAGE_TEXT] <br><br>Angriffe des [CONTEXT_PARTY_MEMBER_NAME_HEALER]: {5}% Chance alle Gruppenmitglieder zu heilen, basierend auf {6}% der [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]
+TALENT_BLESSED_COMPANY_MASTERY_DESC=% Auslösechance aller Effekte
 
-TALENT_NO_ONE_LEFT_BEHIND_NAME=Leave No One Behind
-TALENT_NO_ONE_LEFT_BEHIND_DESC=Every {0} seconds, the party member with the lowest health is healed to the [CONTEXT_PARTY_MEMBER_NAME_HEALER]'s current health 
-TALENT_NO_ONE_LEFT_BEHIND_MASTERY_DESC=-1 second [TALENT_NO_ONE_LEFT_BEHIND_NAME] cooldown
+TALENT_NO_ONE_LEFT_BEHIND_NAME=Niemand wird zurückgelassen
+TALENT_NO_ONE_LEFT_BEHIND_DESC=Heilt alle {0} Sekunden das Gruppenmitglied mit den geringsten LP auf die aktuellen LP des [CONTEXT_PARTY_MEMBER_NAME_HEALER]
+TALENT_NO_ONE_LEFT_BEHIND_MASTERY_DESC=-1 Sekunde Abklingzeit des Effekts
 
-TALENT_HEAVEN_AID_NAME=Heaven's Aid
-TALENT_HEAVEN_AID_DESC=Whenever a party member drops below {0}% health, they gain a shield equal to {1}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for {2} seconds <br><br>This effect has a {3} seconds cooldown
-TALENT_HEAVEN_AID_MASTERY_DESC=-7 seconds [TALENT_HEAVEN_AID_NAME] cooldown
+TALENT_HEAVEN_AID_NAME=Himmlische Fürsorge
+TALENT_HEAVEN_AID_DESC=Generiert für {2} Sekunden einen Schutzschild auf einem Gruppenmitglied, wenn es unter {0}% LP fällt, basierend auf {1}% der [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br><br>{3} Sekunden Aklingzeit des Effekts
+TALENT_HEAVEN_AID_MASTERY_DESC=-7 Sekunden Abklingzeit des Effekts
 
-TALENT_ASCENSION_NAME=Ascension
-TALENT_ASCENSION_DESC=Grants [LINK_SKILL_ASCENSION] skill
+TALENT_ASCENSION_NAME=Aufstieg
+TALENT_ASCENSION_DESC=Gewährt die Fähigkeit [LINK_SKILL_ASCENSION]
 
-TALENT_INFUSED_LUMINOSITY_NAME=Infused Luminosity
-TALENT_INFUSED_LUMINOSITY_DESC=[LINK_SKILL_DIVINE_MEND] has a {0}% chance to cause the next [LINK_SKILL_FLASH_HEAL] costs no mana, heal for {1}% more, and deal {2}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] to all enemies and reduce {3}% [ATTRIBUTE_ALL_RESISTS_TEXT] for {4} seconds
-TALENT_INFUSED_LUMINOSITY_MASTERY_DESC=% [TALENT_INFUSED_LUMINOSITY_NAME] proc chance
+TALENT_INFUSED_LUMINOSITY_NAME=Lichtfusion
+TALENT_INFUSED_LUMINOSITY_DESC=Gewährt [LINK_SKILL_DIVINE_MEND] eine Chance von {0}%, den folgenden [LINK_SKILL_FLASH_HEAL] zu verstärken: <br>Entfernt Manakosten, Heilung erhöht um {1}%, fügt allen Gegnern ({2}% der [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT]) als [ATTRIBUTE_FIRE_DAMAGE] zu und reduziert [ATTRIBUTE_ALL_RESISTS_TEXT] um {3}%,  für {4} Sekunden
+TALENT_INFUSED_LUMINOSITY_MASTERY_DESC=% Auslösechance
 
-TALENT_ALACRITY_OF_THE_FAITHFUL_NAME=Alacrity of the Faithful
+TALENT_ALACRITY_OF_THE_FAITHFUL_NAME=Eifer der Gläubigen
 
-TALENT_ANCIENT_ROOTS_NAME=Ancient Roots
-TALENT_ANCIENT_ROOTS_DESC=Grants [LINK_SKILL_ANCIENT_ROOTS] skill
+TALENT_ANCIENT_ROOTS_NAME=Tiefdringende Wurzeln
+TALENT_ANCIENT_ROOTS_DESC=Gewährt die Fähigkeit [LINK_SKILL_ANCIENT_ROOTS]
 
-TALENT_WORSHIP_NAME=Worship
-TALENT_WORSHIP_DESC=All party members will gain a shield equal to {0}% of [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] for every {1} seconds channelled <br><br>The shield lasts {2} seconds
-TALENT_WORSHIP_MASTERY_DESC=-1 second needed to trigger [TALENT_WORSHIP_NAME]
+TALENT_WORSHIP_NAME=Gebet
+TALENT_WORSHIP_DESC=Zauberkanalisierung von mindestens {1} Sekunden generiert auf allen Gruppenmitgliedern ein Schutzschild, basierend auf {0}% [ATTRIBUTE_INCREASE_HEALPOWER_FLAT_TEXT] <br><br>{2} Sekunden Schildeffektdauer 
+TALENT_WORSHIP_MASTERY_DESC=-1 Sekunde Auslösezeit des Effekts
 
-TALENT_TRAIL_OF_FATE_NAME=Trail of Fate
-TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL] will apply Fate effect on the healed target for {0} seconds. <br><br>When Fate effect expires, it will heal the target again for {1}% of healpower as well as dealing [ATTRIBUTE_FIRE_DAMAGE] equal to {2}% of healpower to all enemies
-TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1 second Fate effect duration
+TALENT_TRAIL_OF_FATE_NAME=Pfad des Schicksals
+TALENT_TRAIL_OF_FATE_DESC=[LINK_SKILL_RADIANT_HEAL] segnet das Ziel für {0} Sekunden mit dem Schicksal-Effekt <br><br>Heilt das Ziel um ({1}% der Heilkraft) und fügt allen Gegnern [ATTRIBUTE_FIRE_DAMAGE] zu ({2}% der Heilkraft), wenn der Effekt abläuft
+TALENT_TRAIL_OF_FATE_MASTERY_DESC=-1 Sekunde Dauer des Effekts
 
-TALENT_REVIVE_NAME=Revive
-TALENT_REVIVE_DESC=Grants [LINK_SKILL_REVIVE] Skill
+TALENT_REVIVE_NAME=Wiederbeleben
+TALENT_REVIVE_DESC=Gewährt die Fähigkeit [LINK_SKILL_REVIVE]
 
-TALENT_CONVICTION_NAME=Conviction
-TALENT_CONVICTION_DESC=Whenever [CONTEXT_PARTY_MEMBER_NAME_TANK] or [CONTEXT_PARTY_MEMBER_NAME_HEALER] is damaged by an enemy's auto attack. There is a {0}% chance they will deal {1}% of their [ATTRIBUTE_BASE_DAMAGE_TEXT] as [ATTRIBUTE_FIRE_DAMAGE] back to the attacker, as well as reducing the attacker's [ATTRIBUTE_ALL_DAMAGE_DEALT] by {2}% for {3} seconds
-TALENT_CONVICTION_MASTERY_DESC=% [TALENT_CONVICTION_NAME] trigger chance
+TALENT_CONVICTION_NAME=Überzeugung
+TALENT_CONVICTION_DESC=Werden [CONTEXT_PARTY_MEMBER_NAME_TANK] oder [CONTEXT_PARTY_MEMBER_NAME_HEALER] von einem Angriff getroffen, besteht eine Chance von {0}%, [ATTRIBUTE_FIRE_DAMAGE] als Konterangriff zuzufügen, basierend auf {1}% ihres [ATTRIBUTE_BASE_DAMAGE_TEXT], reduziert zusätzlich für {3} Sekunden [ATTRIBUTE_ALL_DAMAGE_DEALT] um {2}% 
+TALENT_CONVICTION_MASTERY_DESC=% Auslösechance
 
 END
